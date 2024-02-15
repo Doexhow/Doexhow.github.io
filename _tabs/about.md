@@ -13,12 +13,10 @@ order: 6
 
 ## Tecnologías y Habilidades
 
-#### Ingeniería de Sistemas Skills
+#### Skills
 - 💼 Microsoft Office Suite: Word, PowerPoint, Excel
 - 💻 Programación: Python, Bash, Java
 - 🌐 Redes: Configuración y administración
-- 📊 Bases de Datos: 
-- 🔄 Desarrollo de Software:
 
 #### Cyber seguridad Skills
 - 🔒 Análisis de Vulnerabilidades
