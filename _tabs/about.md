@@ -3,7 +3,7 @@
 icon: fa-solid fa-user
 order: 6
 ---
-# ¡Hola! Doexhow.
+# ¡Hola! Soy Doexhow.
 ##### Estudiante de Bachillerato. Además, me apasiona la ciberseguridad y el pentesting.
 
 ### Educación
@@ -14,20 +14,15 @@ order: 6
 ## Tecnologías y Habilidades
 
 #### Ingeniería de Sistemas Skills
-- 💼 Microsoft Office Suite: Word, PowerPoint, Excel. (intermedio)
-- 💻 Programación: Python, Bash, Java (basico)
-- 🌐 Redes: Configuración y administración  (intermedio)
-- 📊 Bases de Datos: (basico)
-- 🔄 Desarrollo de Software: (basico)
+- 💼 Microsoft Office Suite: Word, PowerPoint, Excel
+- 💻 Programación: Python, Bash, Java
+- 🌐 Redes: Configuración y administración
+- 📊 Bases de Datos: 
+- 🔄 Desarrollo de Software:
 
 #### Cyber seguridad Skills
-- 🔒 Análisis de Vulnerabilidades (basico)
-- 🔒 Ciberseguridad: Análisis de vulnerabilidades, Pentesting, Pivoting, Port forwarding (basico)
-- 🌐 Pentesting: Nmap, Wireshark, Metasploit (intermedio)
-- 🛡️ Seguridad de la Información (basico)
-- 🚧 Protección contra ataques cibernéticos (basico)
-
-### Contacto
-- ✉️ Correo Electrónico: dogthow@gmail.com
-  
-¡Conéctate conmigo para discutir sobre tecnología, ciberseguridad y más! 🤝
+- 🔒 Análisis de Vulnerabilidades
+- 🔒 Ciberseguridad: Análisis de vulnerabilidades, Pentesting, Pivoting, Port forwarding
+- 🌐 Pentesting: Nmap, Wireshark, Metasploit
+- 🛡️ Seguridad de la Información 
+- 🚧 Protección contra ataques cibernéticos
