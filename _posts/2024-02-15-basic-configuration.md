@@ -1,7 +1,7 @@
 ---
 title: Basic Configutarion
-author: d3vjh
-date: 2023-06-05
+author: Doexhow
+date: 2024-02-15
 categories: [Networks, Packet Tracer]
 tags: [Router, Switch, DHCP, Server]
 img_path: /assets/img/Networks/basicConfiguration/
