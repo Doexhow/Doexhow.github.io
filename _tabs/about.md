@@ -3,7 +3,7 @@
 icon: fa-solid fa-user
 order: 6
 ---
-# ¡Hola! Soy Doexhow.
+# ¡Hola! Antony López.
 ##### Estudiante de Bachillerato. Además, me apasiona la ciberseguridad y el pentesting.
 
 ### Educación
