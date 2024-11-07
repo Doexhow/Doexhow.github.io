@@ -10,19 +10,23 @@
   icon: 'fas fa-cube'
   url: 'https://app.hackthebox.com/profile/1559388'
 
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url: 'https://www.instagram.com/doexhow'
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   icon: 'fab fa-mastodon'   # icons powered by <://fontawesome.cohttpsm/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com'                  # Fill with your Linkedin homepage
 
-- type: discord
-  icon: 'fab fa-discord'
-  url:  'https://discord.com'
+# type: discord
+# icon: 'fab fa-discord'
+#url:  'https://discord.com'
 
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
