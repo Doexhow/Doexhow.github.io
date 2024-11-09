@@ -7,7 +7,7 @@ order: 6
 ##### Estudiante de Bachillerato. Además, me apasiona la ciberseguridad y el pentesting.
 
 ### Educación
-- 🎓 Bachillerato (último año)
+- 🎓 Bachillerato en ciencias y letras con orientación en computación
 - 📘 Estudiante de Ciberseguridad (autodidacta)
 - 📄 Ingles (basico)
 
@@ -15,7 +15,7 @@ order: 6
 
 #### Skills
 - 💼 Microsoft Office Suite: Word, PowerPoint, Excel
-- 💻 Programación: Python, Bash, Java
+- 💻 Programación: Python, Bash
 - 🌐 Redes: Configuración y administración
 
 #### Cyber seguridad Skills
@@ -23,4 +23,3 @@ order: 6
 - 🔒 Ciberseguridad: Análisis de vulnerabilidades, Pentesting, Pivoting, Port forwarding
 - 🌐 Pentesting: Nmap, Wireshark, Metasploit
 - 🛡️ Seguridad de la Información 
-- 🚧 Protección contra ataques cibernéticos
